@@ -4,7 +4,7 @@
 <img src="imahe_files/download.png" alt="Logo" width="120" height="120">
 
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/botallen/repository.botallen"><img src="imahe_files/Capture.png" height="60" width="60"></a>
   <br>
   BotAllen
   <br>
