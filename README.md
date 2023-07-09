@@ -5,9 +5,9 @@
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="imahe_files/Capture.png" height="60" width="60"></a>
+  <a href="https://github.com/botallen/repository.botallen"><img src="imahe_files/Capture.PNG" height="150" width="320"></a>
   <br>
-  BotAllen
+SogAllen
   <br>
 </h2>
 
