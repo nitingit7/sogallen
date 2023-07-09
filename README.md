@@ -1,7 +1,6 @@
 
 <h1>Download Jio TV plug in</h1> 
 
-<img src="imahe_files/download.png" alt="Logo" width="120" height="120">
 
 <h2 align="center">
   <br>
