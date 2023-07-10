@@ -10,12 +10,12 @@
 <p align="center">
 
   <!-- Release -->
-  <a href="https://github.com/botallen/repository.botallen/releases/latest">
+  <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://img.shields.io/github/v/release/botallen/repository.botallen?style=for-the-badge">
   </a>
   
   <!-- Downloads -->
-  <a href="https://github.com/botallen/repository.botallen/releases/latest">
+  <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://img.shields.io/github/downloads/botallen/repository.botallen/total?style=for-the-badge&logo=kodi&color=17B2E7">
   </a>
   
