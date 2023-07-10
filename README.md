@@ -4,7 +4,7 @@
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="imahe_files/Capture.PNG" height="250" width="400"></a>
+  <a href="https://github.com/botallen/repository.botallen"><img src="imahe_files/NEW_SOGALLEN_edited.png" height="300" width="450"></a>
 </h2>
 
 <p align="center">
