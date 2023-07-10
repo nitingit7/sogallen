@@ -37,7 +37,7 @@
 </span>
 </p>
 
-## Install
+## Install (Use kodi tv 19.5 metric version)
 
 
 - Go to the add ons
