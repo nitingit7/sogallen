@@ -34,11 +34,32 @@ SogAllen
   <p align="center">
 
   <span style="display: inline-block;">
-  <a href="https://github.com/botallen/plugin.video.jiotv">
+  <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
 </span>
 </p>
 
-<a href="https://github.com/nitingit7/sogallen/releases/download/working_plugin/plugin.video.jiotv-2.0.25.zip" style="font-size: 100px; padding: 8px 16px;"> Download </a>
+## Install
+
+
+- Go to the add ons
+- Click on Install From zip file
+- First, install the script module
+- Then install jio tv plugin
+- Go to my add ons
+- Click on video add ons
+- Click on Jio TV
+- Login through Otp
+- Then go to the setup
+- Click on IPTV PVR.
+- Wait for a minute
+- after completion, restart the Kodi TV
+- Then go to the tv section from the left panel of kodi tv
+- Then you will see the list of channels
+- Done
+
+[**Download**](https://github.com/nitingit7/sogallen/releases/download/working_plugin/plugin.video.jiotv-2.0.25.zip) the `.zip` file.
+<br/>
+<br/>
 
