@@ -45,7 +45,7 @@
 </span>
 </p>
 
-## Install (Use kodi tv 19.5 metric version)
+## Follow carefully to these installation instructions for no errors
 
 
 - Go to the add ons
