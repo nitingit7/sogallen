@@ -22,7 +22,7 @@
 <p align="center">
 
 
-   <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
+   <a href="https://github.com/nitingit7/sogallen/blob/dfc124aa8889ee273e872442604fc26c2a6e8e13/LICENSE">
     <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square" height="45" width="150">
   </a>
 
