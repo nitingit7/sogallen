@@ -16,6 +16,15 @@
 
    </p>
 
+<p align="center">
+
+
+   <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square" height="60" width="200">
+  </a>
+
+   </p>
+
   <h2 align="center">Download These Files</h2>
 
   <p align="center">
