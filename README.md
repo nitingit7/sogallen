@@ -4,17 +4,17 @@
 
 <h2 align="center">
   <br>
-  <a href="https://github.com/nitingit7/sogallen"><img src="imahe_files/NEW_SOGALLEN_edited.png" height="300" width="450"></a>
+  <a href="https://github.com/nitingit7/sogallen"><img src="imahe_files/NEW_SOGALLEN_edited.png" height="250" width="500"></a>
 </h2>
 
 <p align="center">
 
 
    <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
-    <img src="imahe_files/downlaod_image.jpg" height="60" width="200">
+    <img src="imahe_files/downlaod_image.jpg" height="60" width="172">
   </a>
      <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
-    <img src="imahe_files/downlaod_image.jpg" height="60" width="200">
+    <img src="imahe_files/realse_image.jpg" height="60" width="172">
   </a>
 
    </p>
@@ -23,7 +23,7 @@
 
 
    <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square" height="60" width="200">
+    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square" height="45" width="150">
   </a>
 
    </p>
