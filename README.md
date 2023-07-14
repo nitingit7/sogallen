@@ -13,7 +13,7 @@
    <a href="https://github.com/nitingit7/sogallen#download-these-files">
     <img src="imahe_files/downlaod_image.jpg" height="60" width="172">
   </a>
-     <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
+     <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="imahe_files/realse_image.jpg" height="60" width="172">
   </a>
 
