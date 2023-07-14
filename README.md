@@ -34,6 +34,9 @@
   <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
+    <a href="https://github.com/nitingit7/sogallen/releases">
+    <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
+  </a>
 </span>
 </p>
 
