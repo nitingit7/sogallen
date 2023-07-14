@@ -34,7 +34,7 @@
   <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
-    <a href="https://github.com/nitingit7/sogallen/releases">
+    <a href="https://github.com/nitingit7/sogallen/releases/download/working_plugin/kodi-19.5-Matrix-armeabi-v7a.apk">
     <img src="imahe_files/Kodi Logo.png" width="100" height="100">
   </a>
 </span>
