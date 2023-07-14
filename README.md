@@ -11,7 +11,10 @@
 
 
    <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square" height="60" width="200">
+    <img src="imahe_files/downlaod_image.jpg" height="60" width="200">
+  </a>
+     <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
+    <img src="imahe_files/downlaod_image.jpg" height="60" width="200">
   </a>
 
    </p>
