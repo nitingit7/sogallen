@@ -26,11 +26,14 @@
     <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square">
   </a>
 
-  <h2 align="center">Add-ons</h2>
+  <h2 align="center">Download These Files</h2>
 
   <p align="center">
 
   <span style="display: inline-block;">
+     <a href="https://github.com/nitingit7/sogallen/releases">
+    <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
+  </a>
   <a href="https://github.com/nitingit7/sogallen/releases">
     <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
