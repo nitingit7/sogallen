@@ -31,7 +31,7 @@
   <p align="center">
 
   <span style="display: inline-block;">
-     <a href="https://github.com/nitingit7/sogallen/releases">
+     <a href="https://github.com/nitingit7/sogallen/releases/download/working_plugin/script.module.requests-2.27.1+matrix.1.zip">
     <img src="imahe_files/zip file logo.png" width="100" height="100">
   </a>
   <a href="https://github.com/nitingit7/sogallen/releases">
