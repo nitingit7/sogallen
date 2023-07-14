@@ -64,11 +64,3 @@
 - Then you will see the list of channels
 - Done
 
-## Download
-
-[**Download**](https://github.com/nitingit7/sogallen/releases/download/working_plugin/plugin.video.jiotv-2.0.25.zip) the Jio TV `.zip` file.
-
-[**Download**](https://github.com/nitingit7/sogallen/releases/download/working_plugin/kodi-19.5-Matrix-armeabi-v7a.apk) the Kodi TV `.apk` file.
-<br/>
-<br/>
-
